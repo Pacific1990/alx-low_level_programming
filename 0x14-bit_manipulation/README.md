@@ -14,8 +14,6 @@ C
 
 
 
-
-
 Resources
 
 Read or watch:
