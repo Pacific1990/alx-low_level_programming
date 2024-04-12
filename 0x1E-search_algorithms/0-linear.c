@@ -25,5 +25,7 @@ int linear_search(int *array, size_t size, int value)
 		}
 		printf("Value checked array[%d] = [%d]\n", (int)i, array[i]);
 	}
+	
+	printf("Valeur %d non trouvée dans le tableau\n", value);
 	return (-1);
 }
